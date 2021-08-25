@@ -1,0 +1,15 @@
+[
+    {
+        "nome": "Yuki",
+        "sobrenome": "Salazar",
+        "empresa": "RC Studio",
+        "endereco": "Rua Solimão",
+        "numero": "124",
+        "pais": "Brasil",
+        "cidade": "Praia Grande",
+        "estado": "São Paulo",
+        "cep": "11721060",
+        "telefone": "11999999999",
+        "email": "aleksalazar@outlook.com.br"
+    }
+]
